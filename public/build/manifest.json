@@ -1,0 +1,41 @@
+{
+  "resources/css/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Bold.ttf": {
+    "file": "assets/JetBrainsMono-Bold-3cc3cc37.ttf",
+    "src": "resources/css/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Bold.ttf"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-966620f9.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/css/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Regular.ttf": {
+    "file": "assets/JetBrainsMono-Regular-50e1dcb4.ttf",
+    "src": "resources/css/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Regular.ttf"
+  },
+  "resources/css/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Medium.ttf": {
+    "file": "assets/JetBrainsMono-Medium-64708889.ttf",
+    "src": "resources/css/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Medium.ttf"
+  },
+  "resources/css/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Italic.ttf": {
+    "file": "assets/JetBrainsMono-Italic-b74c5f0b.ttf",
+    "src": "resources/css/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Italic.ttf"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-c6569d46.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-60edf288.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/javascript.js": {
+    "file": "assets/javascript-a81e2f7a.js",
+    "src": "resources/js/javascript.js",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-5e96c21d.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
