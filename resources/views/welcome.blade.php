@@ -174,6 +174,16 @@
         </div>
     </section>
 
+    <!-- Projects -->
+
+    <section class="SectionProjects container-fluid my-4">
+        <div class="col-12">
+        @foreach($projects as $project)
+        <x-project-card :project="$project" />
+        @endforeach
+        </div>
+    </section>
+
     <!-- goodbye -->
 
     <section class="container-fluid my-5 Footer">
